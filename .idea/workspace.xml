@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="990a4373-74ed-49dd-9919-7d416b9b52de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/yimenren/GAT-COBO.git" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="fba1efdc-df0c-4f86-83fa-610a4dd65e15" />
+  <component name="ProjectId" id="290iqKI35JhmWC6Ktm8l030BVlq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharmprojects\imbalance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="GEM_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imbalance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baselines/GEM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baselines/GEM/GEM_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GraphConsis_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imbalance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baselines/GraphConsis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baselines/GraphConsis/GraphConsis_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Player2Vec_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imbalance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baselines/Player2Vec" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baselines/Player2Vec/Player2Vec_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imbalance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="imbalance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.data_process" />
+        <item itemvalue="Python.GEM_main" />
+        <item itemvalue="Python.GraphConsis_main" />
+        <item itemvalue="Python.Player2Vec_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990a4373-74ed-49dd-9919-7d416b9b52de" name="Default Changelist" comment="" />
+      <created>1652256592767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652256592767</updated>
+      <workItem from="1652256594438" duration="135000" />
+      <workItem from="1652257134312" duration="45108000" />
+      <workItem from="1655024994578" duration="260023000" />
+      <workItem from="1657855266334" duration="987000" />
+      <workItem from="1657859209379" duration="2110000" />
+      <workItem from="1657861605041" duration="1654000" />
+      <workItem from="1658219469802" duration="3897000" />
+      <workItem from="1658244494239" duration="775000" />
+      <workItem from="1658245284861" duration="1283000" />
+      <workItem from="1658246626201" duration="968000" />
+      <workItem from="1658247650190" duration="2790000" />
+      <workItem from="1658290553490" duration="450000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.一个可以实现每个layer可训练的版本，虽然效果没有单个layer好，但是潜力大，后续可以通过调参优化&#10;2.将sample_weight乘在attention——weight上，实现了每个layer可以持续优化">
+      <created>1655604452640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655604452640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.首次实现BANADA+Adacost调通&#10;2.相比BANADA，在BUPT的2,3类别上性能均有提升&#10;3.问题在于只能优化第一个layer，后续layer无优化">
+      <created>1655604920898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655604920898</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.在BANADA+Adacost调通基础上停止使用early stopping，类别均衡效果有巨大提升">
+      <created>1655607004056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655607004056</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1655624375953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655624375954</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657855592217</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657855592217</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657861038999</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657861038999</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657861151916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657861151916</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657861225138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657861225138</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657861290801</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657861290801</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657861810727</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657861810727</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657862222929</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657862222929</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657862502678</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657862502678</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657862524932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657862524932</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1.基本定型，不要ES，增加G Mean评价指标，效果好">
+      <created>1657862619607</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657862619607</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1.整理代码上传">
+      <created>1658220459589</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658220459589</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1.整理代码上传">
+      <created>1658221288895</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1658221288895</updated>
+    </task>
+    <task id="LOCAL-00017" summary="1.整理代码上传">
+      <created>1658221545490</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1658221545490</updated>
+    </task>
+    <task id="LOCAL-00018" summary="1.整理代码上传">
+      <created>1658221617037</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658221617037</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1.整理代码上传">
+      <created>1658221792667</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1658221792667</updated>
+    </task>
+    <task id="LOCAL-00020" summary="1.整理代码上传">
+      <created>1658221994075</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658221994075</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1.整理代码上传">
+      <created>1658243798455</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658243798455</updated>
+    </task>
+    <task id="LOCAL-00022" summary="1.整理代码上传">
+      <created>1658244427060</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658244427060</updated>
+    </task>
+    <task id="LOCAL-00023" summary="1.整理代码上传">
+      <created>1658244518122</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658244518122</updated>
+    </task>
+    <task id="LOCAL-00024" summary="1.整理代码上传">
+      <created>1658244915270</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1658244915270</updated>
+    </task>
+    <task id="LOCAL-00025" summary="1.整理代码上传">
+      <created>1658245212651</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1658245212651</updated>
+    </task>
+    <task id="LOCAL-00026" summary="1.整理代码上传">
+      <created>1658245297030</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1658245297030</updated>
+    </task>
+    <task id="LOCAL-00027" summary="1.整理代码上传">
+      <created>1658245369074</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1658245369074</updated>
+    </task>
+    <task id="LOCAL-00028" summary="1.整理代码上传">
+      <created>1658245794931</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1658245794931</updated>
+    </task>
+    <task id="LOCAL-00029" summary="1.整理代码上传">
+      <created>1658247701593</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1658247701593</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Upload the code">
+      <created>1658285962677</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1658285962677</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="1.一个可以实现每个layer可训练的版本，虽然效果没有单个layer好，但是潜力大，后续可以通过调参优化&#10;2.将sample_weight乘在attention——weight上，实现了每个layer可以持续优化" />
+    <MESSAGE value="1.首次实现BANADA+Adacost调通&#10;2.相比BANADA，在BUPT的2,3类别上性能均有提升&#10;3.问题在于只能优化第一个layer，后续layer无优化" />
+    <MESSAGE value="1.在BANADA+Adacost调通基础上停止使用early stopping，类别均衡效果有巨大提升" />
+    <MESSAGE value="1.基本定型，不要ES，增加G Mean评价指标，效果好" />
+    <MESSAGE value="1.整理代码上传" />
+    <MESSAGE value="Upload the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload the code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2052" y="617" key="#Deployment" timestamp="1657861768121">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2052" y="617" key="#Deployment/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657861768121" />
+    <state x="2160" y="759" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1655095571087">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2160" y="759" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1655095571087" />
+    <state x="410" y="54" key="CommitChangelistDialog2" timestamp="1658285961500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="54" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658285961500" />
+    <state x="1920" y="520" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657862618852" />
+    <state x="2012" y="92" width="896" height="1736" key="DirDiffDialog" timestamp="1655556756726">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2012" y="92" width="896" height="1736" key="DirDiffDialog/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1655556756726" />
+    <state x="567" y="379" key="FileChooserDialogImpl" timestamp="1658290694627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="379" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658290694627" />
+    <state x="2239" y="700" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1655613397612" />
+    <state x="688" y="465" key="Gitee.ShareDialog" timestamp="1658290918591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="465" key="Gitee.ShareDialog/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658290918591" />
+    <state x="2307" y="859" key="Gitee.ShareDialog/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1655562824079" />
+    <state x="2289" y="657" key="Gitee.UntrackedFilesDialog" timestamp="1655562841262">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2289" y="657" key="Gitee.UntrackedFilesDialog/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1655562841262" />
+    <state x="750" y="447" key="Github.ShareDialog" timestamp="1658246729895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="447" key="Github.ShareDialog/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658246729895" />
+    <state x="2342" y="826" key="Github.ShareDialog/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657860931872" />
+    <state x="2286" y="650" key="Github.UntrackedFilesDialog" timestamp="1657860326566">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2286" y="650" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657860326566" />
+    <state width="938" height="337" key="GridCell.Tab.0.bottom" timestamp="1658290541210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658290541210" />
+    <state width="1036" height="598" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657861801556" />
+    <state width="938" height="337" key="GridCell.Tab.0.center" timestamp="1658290541210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="337" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658290541210" />
+    <state width="1036" height="598" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657861801556" />
+    <state width="938" height="337" key="GridCell.Tab.0.left" timestamp="1658290541210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="337" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658290541210" />
+    <state width="1036" height="598" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657861801555" />
+    <state width="938" height="337" key="GridCell.Tab.0.right" timestamp="1658290541210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="337" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658290541210" />
+    <state width="1036" height="598" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657861801556" />
+    <state width="1036" height="753" key="GridCell.Tab.1.bottom" timestamp="1657427210334">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1876" height="207" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1655569434870" />
+    <state width="1036" height="753" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657427210334" />
+    <state width="1036" height="753" key="GridCell.Tab.1.center" timestamp="1657427210334">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1876" height="207" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1655569434870" />
+    <state width="1036" height="753" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657427210334" />
+    <state width="1036" height="753" key="GridCell.Tab.1.left" timestamp="1657427210334">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1876" height="207" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1655569434870" />
+    <state width="1036" height="753" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657427210334" />
+    <state width="1036" height="753" key="GridCell.Tab.1.right" timestamp="1657427210334">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state width="1876" height="207" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1655569434870" />
+    <state width="1036" height="753" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657427210334" />
+    <state x="2040" y="693" key="IDE.errors.dialog" timestamp="1652256668971">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2040" y="693" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1652256668971" />
+    <state x="73" y="302" key="SettingsEditor" timestamp="1658246646825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="73" y="302" key="SettingsEditor/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658246646825" />
+    <state x="1961" y="591" key="SettingsEditor/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657861553771" />
+    <state x="235" y="375" key="Vcs.Push.Dialog.v2" timestamp="1658285965243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="235" y="375" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1920@0.0.1920.1040" timestamp="1658285965243" />
+    <state x="2052" y="692" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657862620762" />
+    <state x="2004" y="688" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1655112408727">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2004" y="688" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1655112408727" />
+    <state x="2251" y="844" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1652703734467">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2251" y="844" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1652703734467" />
+    <state x="2373" y="885" width="333" height="541" key="ftp.server.browser" timestamp="1657861765307">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2373" y="885" width="333" height="541" key="ftp.server.browser/0.0.1920.1040/1920.0.1080.1920@1920.0.1080.1920" timestamp="1657861765307" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baselines/AdaGCN/ppnp/data/io.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/imbalance$adacost.coverage" NAME="adacost Coverage Results" MODIFIED="1655082419038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imbalance$GraphSage_main.coverage" NAME="GraphSage_main Coverage Results" MODIFIED="1657122126189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/GraphSage" />
+    <SUITE FILE_PATH="coverage/imbalance$AdaGCN_main.coverage" NAME="AdaGCN_main Coverage Results" MODIFIED="1657099637963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/AdaGCN" />
+    <SUITE FILE_PATH="coverage/imbalance$Player2Vec_main.coverage" NAME="Player2Vec_main Coverage Results" MODIFIED="1657291685043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/Player2Vec" />
+    <SUITE FILE_PATH="coverage/imbalance$GEM_main.coverage" NAME="GEM_main Coverage Results" MODIFIED="1657297472942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/GEM" />
+    <SUITE FILE_PATH="coverage/GAT_COBO$main.coverage" NAME="main Coverage Results" MODIFIED="1658290310290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imbalance$main.coverage" NAME="main Coverage Results" MODIFIED="1657178288551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imbalance$data_process.coverage" NAME="data_process Coverage Results" MODIFIED="1655556877677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imbalance$adacost_example.coverage" NAME="adacost_example Coverage Results" MODIFIED="1655559472953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imbalance$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1657121891853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/gat" />
+    <SUITE FILE_PATH="coverage/imbalance$FdGars_main.coverage" NAME="FdGars_main Coverage Results" MODIFIED="1657290391894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/FdGars" />
+    <SUITE FILE_PATH="coverage/imbalance$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1657180883253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/caregnn" />
+    <SUITE FILE_PATH="coverage/GAT_COBO$data_process.coverage" NAME="data_process Coverage Results" MODIFIED="1658219785719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imbalance$test.coverage" NAME="test Coverage Results" MODIFIED="1655361832694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/imbalance$train.coverage" NAME="train Coverage Results" MODIFIED="1657161742883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/gcn" />
+    <SUITE FILE_PATH="coverage/imbalance$GraphConsis_main.coverage" NAME="GraphConsis_main Coverage Results" MODIFIED="1657296925784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baselines/GraphConsis" />
+  </component>
+</project>
