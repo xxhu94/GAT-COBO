@@ -1,7 +1,7 @@
 # GAT-COBO
 
 A PyTorch implementation for the paper below:   
-**GAT-COBO: Cost-Sensitive Graph Neural Network for Anomaly Detection**.
+**GAT-COBO: Cost-Sensitive Graph Neural Network for Telecom Fraud Detection**.
 
 
 ## Running GAT-COBO
