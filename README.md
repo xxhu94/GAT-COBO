@@ -27,4 +27,14 @@ You can find the baselines in `baselines` directory. For example, you can run Pl
 python Player2Vec_main.py 
 ```
 
+## Citation
+
+```
+@article{hu2023gatcobo,
+  title={GAT-COBO: Cost-Sensitive Graph Neural Network for Telecom Fraud Detection},
+  author={Hu, Xinxin and Chen, Haotian and Zhang, Junjie and Chen, Hongchang and Liu, Shuxin and Li, Xing and Wang, Yahui and Xue, Xiangyang},
+  journal={arXiv preprint arXiv:2303.17334},
+  year={2023}
+}
+```
   
