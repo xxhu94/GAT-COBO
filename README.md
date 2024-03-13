@@ -34,7 +34,8 @@ python Player2Vec_main.py
   title={GAT-COBO: Cost-Sensitive Graph Neural Network for Telecom Fraud Detection},
   author={Hu, Xinxin and Chen, Haotian and Zhang, Junjie and Chen, Hongchang and Liu, Shuxin and Li, Xing and Wang, Yahui and Xue, Xiangyang},
   journal={IEEE Transactions on Big Data},
-  year={2023}
+  year={2023},
+  doi={10.1109/TBDATA.2024.3352978}
 }
 ```
   
